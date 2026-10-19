@@ -1,0 +1,5 @@
+# Ignore executable and build files in all subfolders
+**/*.exe
+**/*.ilk
+**/*.pdb
+**/obj/
